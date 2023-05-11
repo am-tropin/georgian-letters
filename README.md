@@ -14,7 +14,7 @@ Libraries: cv2, keras, tensorflow, pandas, numpy, re, xml.etree.ElementTree, glo
 
 ## Dataset
 
-- The image dataset of Georgian signboards created by myself during my living in Georgia. More than 4000 letters on these images were labeled with [makesense.ai](https://www.makesense.ai/). The result dataset was uploaded on [Kaggle](https://www.kaggle.com/datasets/alexandertropin/georgian-letters-photo-database). 
+- The image dataset of Georgian signboards was created by myself during my living in Georgia. More than 4000 letters on these images were labeled with [makesense.ai](https://www.makesense.ai/). The result dataset was uploaded on [Kaggle](https://www.kaggle.com/datasets/alexandertropin/georgian-letters-photo-database). 
 
 - The data about [Georgian alphabet](https://github.com/am-tropin/georgian-letters/blob/main/modern_georgian_alphabet.png) and frequency of letter occurence was scraped from Wikipedia. The [georgian_labels.txt](https://github.com/am-tropin/georgian-letters/blob/main/georgian_labels.txt) file is used for labeling. 
 
